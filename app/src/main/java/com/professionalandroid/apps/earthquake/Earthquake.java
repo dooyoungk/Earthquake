@@ -49,4 +49,7 @@ public class Earthquake {
             return false;
         }
     }
+
+    public void add(Earthquake earthquake) {
+    }
 }
